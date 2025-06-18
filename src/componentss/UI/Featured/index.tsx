@@ -48,7 +48,7 @@ const Featured = () => {
         <h2>Featured and Seen in</h2>
         <ParallaxImages>
           <ParallaxText baseVelocity={-4}>
-            <Image src={companies_image} alt="comapanies" />
+            <Image src={companies_image} alt="comapanies" fill />
           </ParallaxText>
         </ParallaxImages>
       </Inner>
