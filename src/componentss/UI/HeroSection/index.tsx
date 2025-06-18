@@ -20,7 +20,7 @@ const HeroSection = () => {
       <Inner>
         <Pill>
         <ChevronLeft className="opacity-80" />
-          <span className="bg-red-500">Stage-Link</span>
+          <span className="text-2xl">Stage-Link</span>
           <ChevronRight />
         </Pill>
 
