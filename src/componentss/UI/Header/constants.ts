@@ -23,14 +23,14 @@ export const menu = {
 export const links = [
   {
     url: '/',
-    linkTo: 'Solutions',
+    linkTo: 'Demmandes',
   },
   {
     url: '/',
-    linkTo: 'Learn',
+    linkTo: 'Stages',
   },
   {
     url: '/',
-    linkTo: 'About',
+    linkTo: 'A Propros',
   },
 ];
