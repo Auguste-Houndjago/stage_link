@@ -77,7 +77,7 @@ const linkSpans = useRef<HTMLSpanElement[]>([]);
               </div>
             ))}
           </div>
-          <div>
+          {/* <div>
             {Link.map((t, i) => (
               <div
                 key={i}
@@ -86,7 +86,7 @@ const linkSpans = useRef<HTMLSpanElement[]>([]);
                 {t}
               </div>
             ))}
-          </div>
+          </div> */}
         </Inner>
       </Wrapper>
       <SecondOverlay ref={secondOverlayRef}></SecondOverlay>
