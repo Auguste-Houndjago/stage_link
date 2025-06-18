@@ -4,7 +4,7 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Stage-Link',
-  description: 'Building the future of banking',
+  description: 'Stage Management Platform',
 };
 
 export default function RootLayout({
