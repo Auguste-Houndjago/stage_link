@@ -58,7 +58,16 @@ const JoinSection = () => {
                   <MaskText phrases={new Array('HAPPY STAGE-LINKS USERS')} tag="p" />
                 </Name>
                 <Avatar>
-                  <Image src={t.avatar} alt="user avatar" />
+                 <Image
+  src={t.avatar}
+  alt="user avatar"
+  style={{
+    width: '40px',    // taille de l'avatar
+    height: '40px',   // taille de l'avatar
+    borderRadius: '50%', // rend l'image totalement ronde
+    objectFit: 'cover'   // pour que l'image remplisse bien le cadre sans déformation
+  }}
+/>
                 </Avatar>
               </UserInfo>
             </Testimonial>
