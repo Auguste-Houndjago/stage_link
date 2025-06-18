@@ -23,7 +23,7 @@ export const Inner = styled.div`
   align-items: center;
   padding: 0 2em;
   overflow: hidden;
-  height: 25em;
+  height: 20em;
 
   img {
     width: 20em;
