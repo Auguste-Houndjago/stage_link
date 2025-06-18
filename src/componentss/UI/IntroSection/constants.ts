@@ -1,4 +1,4 @@
-import ic_document_duplicate from '../../../../public/svgs/ic_document_duplicate.svg';
+`import ic_document_duplicate from '../../../../public/svgs/ic_document_duplicate.svg';
 import ic_identification from '../../../../public/svgs/ic_identification.svg';
 import ic_lock_closed from '../../../../public/svgs/ic_lock_closed.svg';
 
