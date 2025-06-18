@@ -45,6 +45,7 @@ const Featured = () => {
             )}
           </Div>
         </ImageContainer>
+        <h2>Devenez des experts dans votre domaines</h2>
         <ParallaxImages>
           <ParallaxText baseVelocity={-4}>
             <Image src={companies_image} alt="comapanies" fill />
