@@ -7,7 +7,7 @@ import {
   IntroSection,
   JoinSection,
   OffersSection,
-} from '@/components';
+} from '@/componentss';
 
 export default function Home() {
   return (
