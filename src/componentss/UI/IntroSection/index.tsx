@@ -33,7 +33,7 @@ const IntroSection = () => {
     <Wrapper>
       <Inner>
         <Header>
-          <h3>stage-link</h3>
+          <h3 className="text-3xl">stage-link</h3>
           <HeaderMainText>
             {isMobile ? (
               <>
